@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+    <style> 
+        h1 { color:rgb(245, 39, 50);}
+        h2 { color:rgb(245, 39, 50);}
+        #list { color:rgb(245, 39, 50);}
+    </style>
+        <h1>Welcome to Canada</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/1280px-Flag_of_Canada.svg.png"atl="Canada flag" width="200" >
+        <h2>Snow </h2>
+        <h4> Snow is one of the biggest things Canada is known for. Each winter, snow falls in great quantities all over the contry. Places like the east coast tend to get less snow due to temperature differences because of streams in the oceans or because of how close to the equater certain places are. The snowfall can get to such a high level that some days, whole cities will be told to work from home rather than attempt to go outside. Although the snow is a lot to take in at first, you'll get use to it fast because deep down, everyone loves playing in it. </h4>
+        
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/69/Bowles_Outdoor_Centre_in_the_Snow.jpg" atl="snow"width="420" height="230">
+        <h2 id="list">List of animals that can be found</h2>
+        <li>Deer</li>
+        <li>Polar bears</li>
+        <li>Geese</li>
+        <li>Beavers</li>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/220px-American_Beaver.jpg" alt="beaver" width="180">
+        <h2>Climate</h2>
+        <h4>The climate in Canada changes drastically throughout the course of a single year. In the winters, places get to -45 degrees celcius and in the summer, they get to 45 degrees celcius. The fall is often windy and dry and the spring is often wet and muddy. The best time to visit is early summer because it's not too hot and not too cold but the winters are probably the most interesting season because of the fact that going outside can kill you because of how cold it is. </h4>
+        
+        <h2 id="list">List of interesting Canadian food</h2>         <li>Ketchup Chips</li>
+       <li>Poutine</li>
+       <li>Beaver Tails</li>
+       
+       
+    </body>
+</html>
